@@ -1,3 +1,3 @@
-# metalafkj.github.io
+# final boss teams
 
-![Alt text](S2DR_skyclops.png?raw=true)
+![Alt text](afkj/battledrill/s2m1/map1-finalboss.png?raw=true)
